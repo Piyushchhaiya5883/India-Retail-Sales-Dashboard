@@ -98,7 +98,7 @@ State (Delhi, Gujarat, Karnataka, Maharashtra, Tamil Nadu, Telangana, West Benga
 Clone this repository
 
 
-bash   git clone https://github.com/your-username/India-Retail-Sales-Dashboard.git
+bash   git clone https://github.com/Piyushchhaiya5883/India-Retail-Sales-Dashboard.git
 
 
 
